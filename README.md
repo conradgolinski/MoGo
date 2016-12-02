@@ -1,2 +1,2 @@
 # MoGo
-##### [Demo](https://conradgolinki.github.io/mago/) page
+##### [Demo](https://conradgolinski.github.io/mago/) page
